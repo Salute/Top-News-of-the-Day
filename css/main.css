@@ -1,0 +1,46 @@
+body {
+  font-size: 14px;
+}
+
+.section {
+  background: #f3f3f3;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+}
+
+.news-header {
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  margin-bottom: -20px;
+  margin-top: -20px;
+}
+
+
+.box {
+  -webkit-box-shadow: 0px 3px 33px -8px rgba(0,0,0,0.14);
+  -moz-box-shadow: 0px 3px 33px -8px rgba(0,0,0,0.14);
+  box-shadow: 0px 3px 33px -8px rgba(0,0,0,0.14);
+  margin-top: 20px;
+  border-radius: 0;
+}
+
+.main-header {
+  color: #e35e2b;
+}
+
+.level {
+  margin-top: 6px;
+}
+
+.level-left {
+  margin-left: -12px;
+}
+
+.divider {
+  margin-top: -30px;
+}
